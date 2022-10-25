@@ -1,0 +1,3 @@
+Always have show hidden files on
+
+code = hiddenweirdfile
